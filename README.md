@@ -32,11 +32,11 @@ Save the final data set into the file
 
 ### PROGRAM:
 
-         ```
+```
          DEVELOPED BY:DIVYA K
          REGISTER NO:212222230035
-         ```
-         ```
+ ```
+ ```
          import pandas as pd
          import numpy as np
          import matplotlib.pyplot as plt
@@ -87,5 +87,5 @@ Save the final data set into the file
          corr=dt.corr()
          sns.heatmap(corr,annot=True)
          sns.pairplot(dt)
-         ```
+   ```
          
